@@ -1,0 +1,46 @@
+{
+  "main:main/wandering_trades": {
+    "criteria": {
+      "tick": "2020-07-28 16:03:38 +0300"
+    },
+    "done": true
+  },
+  "main:main/mmh": {
+    "criteria": {
+      "tick": "2020-07-28 16:03:38 +0300"
+    },
+    "done": true
+  },
+  "main:main/villager_death": {
+    "criteria": {
+      "tick": "2020-07-28 16:03:38 +0300"
+    },
+    "done": true
+  },
+  "main:main/multiplayer_sleep": {
+    "criteria": {
+      "tick": "2020-07-28 16:03:38 +0300"
+    },
+    "done": true
+  },
+  "main:main/root": {
+    "criteria": {
+      "tick": "2020-07-28 16:03:38 +0300"
+    },
+    "done": true
+  },
+  "multiplayer_sleep:sleep": {
+    "criteria": {
+      "tick": "2020-07-28 16:03:38 +0300"
+    },
+    "done": false
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2020-07-28 16:03:38 +0300",
+      "minecraft:river": "2020-07-28 16:03:52 +0300"
+    },
+    "done": false
+  },
+  "DataVersion": 2567
+}
